@@ -5,17 +5,17 @@
 	"lazyLoadTabs": false,
 	"websites": [
 		{
-			"url": "https://datastudio.google.com/u/0/reporting/1os9aOSXyzTl_G_5Xs0qXNHaepMkL9CPr/page/Py6w",
+			"url": "https://datastudio.google.com/u/0/reporting/1IAlHre5uL1-F88Gs1VQ43rfba8FV6C6T/page/Py6w",
 			"duration": 15,
 			"tabReloadIntervalSeconds": 900
 		},
 		{
-			"url": "https://datastudio.google.com/u/0/reporting/1os9aOSXyzTl_G_5Xs0qXNHaepMkL9CPr/page/Uy6w",
+			"url": "https://datastudio.google.com/u/0/reporting/1IAlHre5uL1-F88Gs1VQ43rfba8FV6C6T/page/Uy6w",
 			"duration": 15,
 			"tabReloadIntervalSeconds": 900
 		},
 		{
-			"url": "https://datastudio.google.com/u/0/reporting/1os9aOSXyzTl_G_5Xs0qXNHaepMkL9CPr/page/Zy6w",
+			"url": "https://datastudio.google.com/u/0/reporting/1IAlHre5uL1-F88Gs1VQ43rfba8FV6C6T/page/Zy6w",
 			"duration": 15,
 			"tabReloadIntervalSeconds": 900
 		}
